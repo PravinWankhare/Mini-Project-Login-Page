@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(168, 176, 180);
+}
+.first {
+    height: 450px;
+    width: 750px;
+    box-shadow: 2px 2px 15px black;
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: rgb(248, 254, 255);
+    position: relative;
+    top: 160px;
+    left: 420px;
+}
+.second {
+    height: 450px;
+    width: 370px;
+    box-shadow: 2px 2px 10px black;
+    border-radius: 25px;
+    background-color: rgb(59, 34, 149);
+    position: absolute;
+    top: 161px;
+    left: 810px;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+   
+}
+
+#sign_in {
+    color: black;
+    position: relative;
+    top: 35px;
+    left: 120px;
+    font-size: 50px;
+}
+
+#hello {
+    color:white;
+    font-size: 185px;
+    position: relative;
+    top: 35px;
+    left: 15px;
+    
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    border: 1px solid rgba(0, 0, 0,0.5);
+    position: relative;
+    top: 50px;
+    right: 175px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.icon:hover {
+    box-shadow: 2px 2px 8px black;
+}
+.icons {
+    text-align: center;
+}
+
+#icon1,#icon2,#icon3,#icon4 {
+    text-decoration: none;
+    color: black;
+}
+
+    
+.use {
+    text-align: center;
+    position: relative;
+    top: 65px;
+    right: 180px;
+}
+input {
+    height: 35px;
+    width: 265px;
+    padding-left: 10px;
+    border: 1px solid rgba(0, 0, 0,0.5);
+    border-radius: 6px;
+    margin-top: 15px;
+    position: relative;
+    left: 55px;
+    top: 60px;
+    background-color: aliceblue;
+}
+#forget {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 80px;
+    left: 125px;
+}
+#forget:hover {
+    color: rgb(8, 123, 168);
+}
+
+.in {
+    height: 35px;
+    width: 145px;
+    position: relative;
+    top: 125px;
+    right:25px;
+    background-color: rgb(83, 52, 196);
+    border: 2px solid black;
+    box-shadow: 2px 2px 7px black;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.in:hover {
+    background-color: rgb(221, 225, 228);
+    color: rgb(83, 52, 196);
+    font-size: 15px;
+    font-weight: bolder;
+    box-shadow: 1px 1px 5px black;
+    border: 1px solid black;
+}
+.up {
+    height: 35px;
+    width: 145px;
+    position: relative;
+    top: 190px;
+    left: 130px;
+    background-color: rgb(83, 52, 196);
+    border: 2px solid rgba(249, 249, 249,0.5);
+    box-shadow: 2px 2px 15px black;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.up:hover {
+    background-color: white;
+    color:rgb(83, 52, 196) ;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 3px solid black;
+    box-shadow: 1px 1px 6px white;
+}
+
+#hello {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif, Times, serif;
+    font-size: 30px;
+    position: relative;
+    top: 130px;
+}
+
+.content {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 160px;
+    left: 5px;
+    opacity: 0.8;
+    font-size: 18px;
+}
