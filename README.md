@@ -12,7 +12,7 @@ Check out the live demo here:
 
 ## 🖼 Screenshot
 
-![Login Page Screenshot](Login-Page Screenshot.png)
+![Login Page Screenshot](https://github.com/PravinWankhare/Mini-Project-Login-Page/blob/main/Login-Page%20Screenshot.png)
 
 ---
 
